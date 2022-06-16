@@ -7,6 +7,7 @@ Jupyter notebook: reads csv file and cleans the description columns.<br>
 Concatenates the columns into one text per project.<br>
 Creates a clean dataframe with result.<br>
 Number of rows: 149.<br>
+Creating Bag of Words.
 
 We would like to be able to search through the projects by theme for example 'havvind', 'helse', 'bistand', 'afrika', etc.<br>
 The projects should be tagged automatically.<br>
