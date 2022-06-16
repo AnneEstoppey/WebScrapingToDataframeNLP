@@ -1,4 +1,4 @@
-# WebScrapingToDataframe
+# WebScraping To Dataframe - NLP analysis
 Python script for scraping project descriptions from Innovation Norway website.<br>
 Project descriptions are in Norwegian.<br>
 Results are saved as csv file 'description_.csv'.
